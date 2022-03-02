@@ -1,0 +1,6 @@
+Flask
+flask_restx
+flask_cors
+pytest
+pymongo
+bcryt
